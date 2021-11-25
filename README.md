@@ -18,3 +18,5 @@
 - Dorayen Carrasquel
 - Barbara Queiroz
 - Márcio Viana
+- Anna Karolyne
+
