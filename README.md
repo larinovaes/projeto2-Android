@@ -15,4 +15,5 @@
 - Vanessa Lima
 - Michelle Kênia
 - Jeyciane Faria
-
+- Dorayen Carrasquel
+ 
