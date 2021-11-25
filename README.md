@@ -1,9 +1,6 @@
 # Conflitos
 
 - Vinicius Ferreira
-<<<<<<< HEAD
-- Let Marçal Matias
-=======
 - Xablau
 - Gislaine Gavlak
 - Rafael Santos
