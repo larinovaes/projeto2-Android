@@ -14,3 +14,5 @@
 - Raquel Leão
 - Vanessa Lima
 - Michelle Kênia
+- Jeyciane Faria
+
