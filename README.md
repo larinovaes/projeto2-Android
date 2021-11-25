@@ -1,7 +1,7 @@
 # Conflitos
 
 -----
-- Anna Karolyne
+
 - Vinicius Ferreira
 - Xablau
 - Gislaine Gavlak
@@ -18,3 +18,5 @@
 - Dorayen Carrasquel
 - Barbara Queiroz
 - Márcio Viana
+- Anna Karolyne
+
