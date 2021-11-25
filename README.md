@@ -16,4 +16,5 @@
 - Michelle Kênia
 - Jeyciane Faria
 - Dorayen Carrasquel
- 
+- Barbara Queiroz
+
