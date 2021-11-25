@@ -1,5 +1,7 @@
 # Conflitos
 
+<<<<<<< HEAD
+-----
 - Vinicius Ferreira
 - Xablau
 - Gislaine Gavlak
@@ -8,4 +10,4 @@
 - Raline Silva
 - Maicon Riam de Oliveira
 - Let Marçal Matias
-- 
+- Letícia Cristina
