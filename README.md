@@ -17,4 +17,4 @@
 - Jeyciane Faria
 - Dorayen Carrasquel
 - Barbara Queiroz
-
+- Márcio Viana
