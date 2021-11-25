@@ -12,3 +12,4 @@
 - Let Marçal Matias
 - Letícia Cristina
 - Raquel Leão
+- Vanessa Lima
