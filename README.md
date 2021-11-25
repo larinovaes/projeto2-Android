@@ -13,3 +13,4 @@
 - Letícia Cristina
 - Raquel Leão
 - Vanessa Lima
+- Michelle Kênia
