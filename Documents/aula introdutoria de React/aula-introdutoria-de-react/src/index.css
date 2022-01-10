@@ -1,0 +1,12 @@
+body {
+ font-family: sans-serif;
+ text-align: center;
+ background-color: aquamarine;
+ color: aliceblue;
+ font-size: 2rem;
+}
+
+
+h1, h2 {
+    color: rgb(214, 20, 20);
+}
